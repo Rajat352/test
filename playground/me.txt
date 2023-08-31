@@ -1,0 +1,5 @@
+{{#user}}
+Name: Rajat
+Skills: HTML, CSS, JS, Express.js, Node.js, React, MongoDB, C++, Rest APIs, Tailwind CSS
+Email: rajatgarhwal007@gmail.com
+{{/user}}
